@@ -1,3 +1,9 @@
+
+<img width="625" height="955" alt="image" src="https://github.com/user-attachments/assets/29f50f7e-139c-46d3-b3be-1cb38f46b1e7" />
+
+<img width="407" height="479" alt="image" src="https://github.com/user-attachments/assets/9da40c78-67c9-478d-a423-cda13282a1bc" />
+
+
 # Forward Proxy vs Reverse Proxy Demo
 
 This project demonstrates the difference between forward and reverse proxies using AWS EC2 instances.
@@ -30,3 +36,4 @@ We'll set up:
    - Reverse Proxy: Allow HTTP (80) from anywhere
 
 3. Follow the setup instructions in each directory to configure the services.
+
