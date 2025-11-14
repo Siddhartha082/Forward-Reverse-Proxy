@@ -1,10 +1,6 @@
-## Forward Proxy 
+## Foward-Reverse-Proxy 
 
-<img width="625" height="955" alt="image" src="https://github.com/user-attachments/assets/29f50f7e-139c-46d3-b3be-1cb38f46b1e7" />
-
-## Reverse Proxy
-
-<img width="807" height="873" alt="image" src="https://github.com/user-attachments/assets/3424eac9-868b-40c0-9129-455a871253b4" />
+<img width="813" height="654" alt="image" src="https://github.com/user-attachments/assets/68247033-d961-4154-a71a-d6a5f6dc4c3e" />
 
 
 
@@ -40,5 +36,6 @@ We'll set up:
    - Reverse Proxy: Allow HTTP (80) from anywhere
 
 3. Follow the setup instructions in each directory to configure the services.
+
 
 
